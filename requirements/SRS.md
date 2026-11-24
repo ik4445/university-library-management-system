@@ -263,6 +263,6 @@ The following rules are proposed to improve requirement clarity:
 
 | Version | Date | Description | Author |
 |---|---|---|---|
-| 1.0 | 24-Nov-2026 | Initial SRS document prepared. | M. Jamal Khan |
-| 1.1 | 24-Nov-2026 | Stakeholder analysis and requirements reviewed. | Project Team |
+| 1.0 | 24-Nov-2026 | Initial SRS document prepared. | M.Irfan Khan|
+| 1.1 | 24-Nov-2026 | Stakeholder analysis and requirements reviewed. | M.Umar Khan |
 
